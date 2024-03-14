@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Laravel & Vuejs**
 
-- 📫 How to reach me **ww.gerbenodk.nl**
+- 📫 How to reach me **[www.gerbenodk.nl](https://gerbenodk.nl/)**
 
 - ⚡ Fun fact **What is [1,2,3,4] + 8 ?**
 
